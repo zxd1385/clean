@@ -1,3 +1,4 @@
 int int main(int argc, const char** argv) {
-    return 123;
+    int a , b ;
+    return 0;
 }
