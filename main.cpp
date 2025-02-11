@@ -1,3 +1,3 @@
 int int main(int argc, const char** argv) {
-    return 123;
+    return 88888;
 }
